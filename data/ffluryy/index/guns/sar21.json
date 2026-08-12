@@ -1,0 +1,9 @@
+{
+  "name": "ffluryy.gun.sar21.name",
+  "display": "ffluryy:sar21_display",
+  "data": "ffluryy:sar21_data",
+  "tooltip": "ffluryy.gun.sar21.desc",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 10
+}

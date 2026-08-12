@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 39
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "ffluryy:sar21"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

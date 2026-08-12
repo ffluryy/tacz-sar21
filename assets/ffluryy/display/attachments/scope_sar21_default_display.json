@@ -1,0 +1,30 @@
+{
+  "slot": "ffluryy:attachment/slot/scope_sar21_default",
+  "model": "ffluryy:attachment/scope_sar21_default_geo",
+  "texture": "ffluryy:attachment/uv/scope_sar21_default",
+
+  "lod": {
+    "model": "ffluryy:attachment/lod/scope_sar21_default",
+    "texture": "ffluryy:attachment/lod/scope_sar21_default"
+  },
+
+  "zoom": [
+    1.5,
+    1
+  ],
+  "views": [
+    2,
+    1
+  ],
+  "views_fov": [
+    30.0,
+    30.0
+  ],
+  "show_mount": false,
+  "scope": true,
+  "sight": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}
